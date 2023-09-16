@@ -1,0 +1,18 @@
+---
+object: set
+id: b643670d-7a22-4869-b49c-89cdf9c9b627
+code: pzen
+name: Zendikar Promos
+uri: https://api.scryfall.com/sets/b643670d-7a22-4869-b49c-89cdf9c9b627
+scryfall_uri: https://scryfall.com/sets/pzen
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apzen&unique=prints
+released_at: '2009-10-02'
+set_type: promo
+card_count: 3
+parent_set_code: zen
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: zen
+block: Zendikar
+icon_svg_uri: https://svgs.scryfall.io/sets/zen.svg?1694404800
